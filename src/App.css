@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    display: flex;
+    align-items: center;
+    background-color: #030c1f;
+    height: 65px;
+    justify-content: space-around;
+}
+.container span{
+    margin-right: 10%;
+}
+.Logo{
+    height: 50px;
+    border-radius: 50%;
+    color: white;
+    background-color: wheat;
+}
+.container span a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+}
